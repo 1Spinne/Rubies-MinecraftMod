@@ -1,0 +1,14 @@
+{
+    "item.rubies.ruby": "Ruby",
+    "item.rubies.ruby_pickaxe": "Ruby Pickaxe",
+    "item.rubies.ruby_helmet": "Ruby Helmet",
+    "item.rubies.ruby_chestplate": "Ruby Chestplate",
+    "item.rubies.ruby_leggings": "Ruby Leggings",
+    "item.rubies.ruby_boots": "Ruby Boots",
+    "item.rubies.ruby_sword": "Ruby Sword",
+    "item.rubies.ruby_shovel": "Ruby Shovel",
+    "item.rubies.ruby_hoe": "Ruby Hoe",
+    "item.rubies.ruby_axe": "Ruby Axe",
+    "block.rubies.ruby_block": "Ruby Block",
+    "block.rubies.ruby_ore": "Ruby Ore"
+}
