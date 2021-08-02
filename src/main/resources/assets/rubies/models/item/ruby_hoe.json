@@ -1,6 +1,6 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "rubies:items/ruby_hoe"
+        "layer0": "rubies:item/ruby_hoe"
     }
 }
