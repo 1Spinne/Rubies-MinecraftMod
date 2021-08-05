@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "id": "rubies",
+  "id": "bread_slices",
   "version": "${version}",
 
-  "name": "Ruby Mod",
-  "description": "This Mod adds rubies and its Tools and Armor.",
+  "name": "Bread Slices",
+  "description": "This Mod adds Bread SLices",
   "authors": [
     "Louis"
   ],

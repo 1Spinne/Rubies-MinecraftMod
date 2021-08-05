@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+      "layer0": "bread_slices:item/bread_slice_nutella"
+    }
+}
