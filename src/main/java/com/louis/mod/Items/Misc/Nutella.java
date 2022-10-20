@@ -8,6 +8,4 @@ public class Nutella extends Item {
     public Nutella() {
         super(new Item.Settings().group(ItemGroup.FOOD));
     }
-
-
 }
